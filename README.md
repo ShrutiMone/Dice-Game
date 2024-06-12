@@ -1,6 +1,6 @@
 # dice_game
 
-A new Flutter project.
+This flutter application is a simple dice game for 2 players
 
 ## Getting Started
 
